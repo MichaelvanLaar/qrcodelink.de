@@ -1,0 +1,18 @@
+# VS Code (typical exclusions, but include workspace file)
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+!.vscode/*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+# htacess file and 404 error page
+.htaccess
+404.html
