@@ -13,6 +13,9 @@
 # Built Visual Studio Code Extensions
 *.vsix
 
+# node modules
+node_modules/
+
 # htacess file and 404 error page
 .htaccess
 404.html
