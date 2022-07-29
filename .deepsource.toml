@@ -1,5 +1,10 @@
 version = 1
 
+exclude_patterns = [
+  "index.html",
+  "0e60031d/index.php"
+]
+
 [[analyzers]]
 name = "javascript"
 enabled = true
